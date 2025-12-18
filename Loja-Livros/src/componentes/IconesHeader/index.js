@@ -5,6 +5,11 @@ import styled from 'styled-components'
 const IconesContainer = styled.ul`
     display: flex;
     align-items: center;
+
+     li {
+      list-style: none;
+
+  }
 `
 
 const IconeContainer = styled.li`
